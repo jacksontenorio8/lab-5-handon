@@ -1,0 +1,16 @@
+{
+  "name": "roulette-game",
+  "version": "1.0.0",
+  "description": "Um jogo de roleta com animações em Canvas que simula a rotação e a física da bolinha.",
+  "main": "src/js/game.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
